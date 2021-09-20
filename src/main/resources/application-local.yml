@@ -1,0 +1,32 @@
+server:
+  port: 10001
+#rdb:
+#  type: 'postgres'
+#  host: '192.168.0.24'
+#  port: 5433
+#  username: 'postgres'
+#  password: 'qlalfqjsghekd'
+#  database: 'postgres'
+#  autoLoadEntities: true
+#  synchronize: true
+#  schema: 'example'
+#  logging: true
+#  dropSchema: true
+#spring:
+#  r2dbc:
+#    url: r2dbc:postgresql://192.168.0.24:5433/postgres
+#    username: postgres
+#    password: qlalfqjsghekd
+#    name: postgres
+
+#spring:
+#  datasource:
+#    driver-class-name: org.postgresql.Driver
+#    url: r2dbc:postgresql://192.168.0.24:5433/postgres
+#    username: postgres
+#    password: qlalfqjsghekd
+discord:
+  token:
+  webhook:
+    id: 866137676537266207
+    token: a_Oa9XDq95gWEaUG7c5mbQpJPTydJdeKTmCrjCqX8K6zKgKQXUyQVb1SbAq1-8FB1GPA

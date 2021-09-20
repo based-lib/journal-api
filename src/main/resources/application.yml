@@ -1,0 +1,28 @@
+spring:
+  profiles:
+    active: local
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+#logging.level.springfox.documentation=DEBUG
+#springfox:
+#  documentation:
+#    swagger-ui:
+#      base-url: /documentation
+#    swagger:
+#      v2:
+#        use-model-v3: false
+#server:
+#  servlet:
+#    context-path: /mvc
+#springfox:
+#  documentation:
+#    swaggerUi:
+#      baseUrl: /documentation
+#    open-api:
+#      enabled: true
+#springfox:
+#  documentation:
+#    swagger-ui:
+#      base-url: /documentation
