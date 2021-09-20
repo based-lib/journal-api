@@ -26,7 +26,10 @@ server:
 #    username: postgres
 #    password: qlalfqjsghekd
 discord:
-  token:
+  token: ODY2MTMzMzcwNzE4MTI2MTIw.YPOHjw.bSwgPcuF-B9CMWqWIvg0CCOL6c4
   webhook:
     id: 866137676537266207
     token: a_Oa9XDq95gWEaUG7c5mbQpJPTydJdeKTmCrjCqX8K6zKgKQXUyQVb1SbAq1-8FB1GPA
+logging:
+  file:
+    path: ./
