@@ -26,10 +26,10 @@ server:
 #    username: postgres
 #    password: qlalfqjsghekd
 discord:
-  token: ODY2MTMzMzcwNzE4MTI2MTIw.YPOHjw.bSwgPcuF-B9CMWqWIvg0CCOL6c4
+  token: ENC(34SoVsUK8YTwl7CDOap+n40F0d5MbiIf9Rn1bY2S4H9OlfSPtaw9SXMB6K7dR68RexFny+BKM6g4n4267Y98BODNwZLjp8n3ZHE1iWvYcWkly6OuIN+a)
   webhook:
-    id: 866137676537266207
-    token: a_Oa9XDq95gWEaUG7c5mbQpJPTydJdeKTmCrjCqX8K6zKgKQXUyQVb1SbAq1-8FB1GPA
+    id: ENC(Zk1uDKCWwQ9LYlZdQVwX4SAghiRncGLB+4aCxnv8IrWJscWa2Vq/IBaxu7Li3A==)
+    token: ENC(CcPhHbKI8y8avavGVrA+qpbJglG4+2q8eHS9zUs5l12nNWJ+5wkvli9PshFoRBRw30Bw6IxdmBku8zyv1+sESelcw8inD0gkjt+RJjKOLOQ1Mk4G7Xe000CJhb3cLFTo)
 logging:
   file:
     path: ./

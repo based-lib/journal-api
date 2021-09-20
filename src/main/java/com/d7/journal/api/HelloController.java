@@ -24,8 +24,6 @@ public class HelloController {
     @GetMapping
     public ResponseEntity<?> hello() {
 
-        var res = helloMapper.findStr();
-
         webhook.execute(WebhookExecuteSpec.builder()
                 .content("dkdk")
                 .build())

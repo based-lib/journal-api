@@ -1,4 +1,4 @@
-package com.d7.journal.config;
+package com.d7.journal.config.properties;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -27,7 +27,7 @@ public class DiscordProperties {
     public static class Webhook {
 
         @NotNull(message = "required discord webhook id")
-        private Long id;
+        private String id;
 
         @NotEmpty(message = "required discord webhook token")
         private String token;

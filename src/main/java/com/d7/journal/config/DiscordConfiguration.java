@@ -1,5 +1,6 @@
 package com.d7.journal.config;
 
+import com.d7.journal.config.properties.DiscordProperties;
 import discord4j.common.util.Snowflake;
 import discord4j.core.DiscordClientBuilder;
 import discord4j.core.GatewayDiscordClient;

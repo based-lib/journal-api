@@ -4,7 +4,6 @@ spring:
 mybatis:
   configuration:
     map-underscore-to-camel-case: true
-
 #logging.level.springfox.documentation=DEBUG
 #springfox:
 #  documentation:
@@ -26,3 +25,5 @@ mybatis:
 #  documentation:
 #    swagger-ui:
 #      base-url: /documentation
+encrypt:
+  password: ${ENCRYPTOR_PASSWORD:}
